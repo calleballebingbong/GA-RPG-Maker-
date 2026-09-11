@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MountainEntrance","order":1,"parentId":0,"scrollX":848,"scrollY":624}
+{"id":1,"expanded":true,"name":"MountainEntrance","order":1,"parentId":0,"scrollX":982.8,"scrollY":527.4},
+{"id":2,"expanded":true,"name":"Mountain1","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":527.4},
+{"id":3,"expanded":false,"name":"SnowCastle","order":3,"parentId":2,"scrollX":982.8,"scrollY":527.4}
 ]
