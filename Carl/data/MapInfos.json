@@ -1,9 +1,17 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Tavern (cutscene)","order":1,"parentId":0,"scrollX":655.2,"scrollY":380.4},
-{"id":2,"expanded":true,"name":"Town","order":2,"parentId":0,"scrollX":648.8,"scrollY":421.2},
-{"id":3,"expanded":true,"name":"Tavern","order":3,"parentId":0,"scrollX":655.2,"scrollY":380.4},
-{"id":4,"expanded":true,"name":"Town (Night)","order":4,"parentId":0,"scrollX":811,"scrollY":475.5},
-{"id":5,"expanded":false,"name":"shop","order":5,"parentId":4,"scrollX":819,"scrollY":475.5},
-{"id":6,"expanded":false,"name":"forest","order":6,"parentId":4,"scrollX":819,"scrollY":475.5}
+{"id":1,"expanded":true,"name":"Tavern (cutscene)","order":1,"parentId":0,"scrollX":850,"scrollY":629},
+{"id":2,"expanded":true,"name":"Town","order":2,"parentId":0,"scrollX":714.5454545454546,"scrollY":539.4545454545455},
+{"id":3,"expanded":true,"name":"Tavern","order":3,"parentId":0,"scrollX":850,"scrollY":629},
+{"id":4,"expanded":false,"name":"Town (Night)","order":4,"parentId":0,"scrollX":850,"scrollY":629},
+{"id":5,"expanded":false,"name":"shop","order":5,"parentId":4,"scrollX":850,"scrollY":629},
+{"id":6,"expanded":false,"name":"forest maze","order":6,"parentId":4,"scrollX":850,"scrollY":629},
+{"id":7,"expanded":false,"name":"Forest","order":7,"parentId":4,"scrollX":736.3636363636364,"scrollY":334.3636363636364},
+{"id":8,"expanded":true,"name":"Town (hall)","order":8,"parentId":4,"scrollX":850,"scrollY":629},
+{"id":9,"expanded":false,"name":"Townhall","order":9,"parentId":8,"scrollX":850,"scrollY":629},
+{"id":10,"expanded":false,"name":"Map OW","order":10,"parentId":0,"scrollX":783,"scrollY":629.5},
+{"id":11,"expanded":true,"name":"Evil island","order":11,"parentId":0,"scrollX":927.2727272727274,"scrollY":686.1818181818182},
+{"id":12,"expanded":false,"name":"Inside Castle","order":12,"parentId":11,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"stairwell","order":13,"parentId":11,"scrollX":927.2727272727274,"scrollY":686.1818181818182},
+{"id":14,"expanded":false,"name":"Top of tower","order":14,"parentId":11,"scrollX":1020,"scrollY":754.8}
 ]
