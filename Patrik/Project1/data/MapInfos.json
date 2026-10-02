@@ -4,5 +4,5 @@ null,
 {"id":2,"expanded":true,"name":"InsideGuysHouse","order":2,"parentId":1,"scrollX":1404,"scrollY":783.4285714285713},
 {"id":3,"expanded":true,"name":"Tent","order":4,"parentId":1,"scrollX":1404,"scrollY":783.4285714285713},
 {"id":4,"expanded":false,"name":"GuysBasement","order":3,"parentId":2,"scrollX":1404,"scrollY":783.4285714285713},
-{"id":5,"expanded":false,"name":"UndergroundDesert","order":5,"parentId":1,"scrollX":1184,"scrollY":960}
+{"id":5,"expanded":false,"name":"UndergroundDesert","order":5,"parentId":1,"scrollX":816,"scrollY":800}
 ]
