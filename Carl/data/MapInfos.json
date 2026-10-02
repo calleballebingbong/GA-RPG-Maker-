@@ -11,8 +11,8 @@ null,
 {"id":9,"expanded":false,"name":"Townhall","order":9,"parentId":8,"scrollX":927.2727272727274,"scrollY":686.1818181818182},
 {"id":10,"expanded":false,"name":"Map OW","order":10,"parentId":0,"scrollX":811,"scrollY":686.5},
 {"id":11,"expanded":true,"name":"Evil island","order":11,"parentId":0,"scrollX":1092,"scrollY":634},
-{"id":12,"expanded":false,"name":"Inside Castle","order":12,"parentId":11,"scrollX":832,"scrollY":640},
-{"id":13,"expanded":false,"name":"stairwell","order":13,"parentId":11,"scrollX":1228.5,"scrollY":713.25},
-{"id":14,"expanded":false,"name":"Top of tower","order":14,"parentId":11,"scrollX":832,"scrollY":640},
-{"id":15,"expanded":false,"name":"Tower","order":15,"parentId":11,"scrollX":1136,"scrollY":746}
+{"id":12,"expanded":false,"name":"Inside Castle","order":12,"parentId":11,"scrollX":1638,"scrollY":951},
+{"id":13,"expanded":false,"name":"stairwell","order":13,"parentId":11,"scrollX":1638,"scrollY":951},
+{"id":14,"expanded":true,"name":"Top of tower","order":14,"parentId":11,"scrollX":1638,"scrollY":951},
+{"id":15,"expanded":false,"name":"Tower","order":15,"parentId":11,"scrollX":1622,"scrollY":969}
 ]
